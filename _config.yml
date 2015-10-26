@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://erdence.github.io
 title: machinedrugs
-tagline:
-description:
+# tagline:
+description: The work and progress of a work-in-progress.
 paginate: 5
