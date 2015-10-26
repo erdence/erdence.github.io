@@ -1,6 +1,6 @@
 ---
 published: true
 title: Second post
-layout: post
+layout: page
 ---
 This is the second post.
