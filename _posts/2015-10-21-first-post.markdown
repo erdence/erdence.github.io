@@ -1,6 +1,8 @@
 ---
 published: true
-title: First post
+title: Introduction
 layout: post
 ---
 Hello!
+
+This is the first post.
