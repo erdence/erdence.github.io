@@ -1,6 +1,6 @@
 ---
 published: true
-title: DMT as a foreshadowing vision of the singularity
+title: A shamanic vision of the singularity
 layout: page
 ---
 
