@@ -1,0 +1,7 @@
+---
+published: false
+title: A test post
+layout: post
+---
+
+Testing.
