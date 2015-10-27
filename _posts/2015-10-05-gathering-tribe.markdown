@@ -2,7 +2,7 @@
 published: true
 title: (Book) A Gathering of the Tribe
 layout: post
-permalink: short-urls-jekyll
+permalink: gathering-tribe
 ---
 
 A GATHERING OF THE TRIBE 
