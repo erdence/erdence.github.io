@@ -5,6 +5,7 @@ layout: post
 ---
 
 A GATHERING OF THE TRIBE 
+
 Excerpt from "The more beautiful world our hearts know is possible" by Charles Eisenstein
 
 Once upon a time a great tribe of people lived in a world far away from ours. Whether far away in space, or in time, or even outside of time, we do not know. They lived in a state of enchantment and joy that few of us today dare to believe could exist, except in those exceptional peak experiences when we glimpse the true potential of life and mind. 
