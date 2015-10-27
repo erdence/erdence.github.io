@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #01213C;
+  background-color: #202020;
 }
 @media (min-width: 48rem) {
   .sidebar {
@@ -177,22 +177,22 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-/* Red */
+/* Dark Blue */
 .theme-base-08 .sidebar {
-  background-color: #ac4142;
+  background-color: #01213C;
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: #01213C;
 }
 
-/* Orange */
+/* Dark Red */
 .theme-base-09 .sidebar {
-  background-color: #d28445;
+  background-color: #440E0E;
 }
 .theme-base-09 .content a,
 .theme-base-09 .related-posts li a:hover {
-  color: #d28445;
+  color: #440E0E;
 }
 
 /* Yellow */
