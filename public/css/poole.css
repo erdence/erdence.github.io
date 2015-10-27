@@ -235,6 +235,9 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+.sidebar p{
+  margin-bottom: 0;
+}
 
 /*
  * Messages
