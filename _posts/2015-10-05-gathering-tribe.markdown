@@ -1,6 +1,6 @@
 ---
 published: true
-title: (Book) A Gathering of the Tribe
+title: A Gathering of the Tribe
 layout: post
 permalink: gathering-tribe
 ---
