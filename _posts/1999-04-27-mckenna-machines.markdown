@@ -5,7 +5,8 @@ layout: post
 permalink: mckenna-machines
 ---
 
-[Video link](https://www.youtube.com/watch?v=J5yOaTgWu6Y?t=3m13s)
+* [Video link (YouTube)](https://www.youtube.com/watch?v=J5yOaTgWu6Y?t=3m13s)
+* [Improve this page (requires a free GitHub account)](https://github.com/erdence/erdence.github.io/edit/master/_posts/1999-04-27-mckenna-machines.markdown)
 
 Our discussion this evening is "Psychedelics in the Age of Intelligent Machines" or "Shamans Among the Machines". I wanted to talk about this simply because these are two of my great loves, so I assume -- being monogamous -- that they must be one love. So, how to build intellectual bridges between these two concerns which seem so different?
 
