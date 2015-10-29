@@ -10,7 +10,7 @@ permalink: mckenna-machines
 
 *Annotated transcript of a talk given by [Terence McKenna](https://en.wikipedia.org/wiki/Terence_McKenna) in Seattle on April 27, 1999. It is the reason for this site's name, and will provide many launching points for future discussions and content.*
 
-Our discussion this evening is "Psychedelics in the Age of Intelligent Machines" or "Shamans Among the Machines". 
+Our discussion this evening is ***Psychedelics in the Age of Intelligent Machines*** or ***Shamans Among the Machines***. 
 
 I wanted to talk about this simply because these are two of my great loves, so I assume -- being monogamous -- that they must be one love. So, how to build intellectual bridges between these two concerns which seem so different?
 
