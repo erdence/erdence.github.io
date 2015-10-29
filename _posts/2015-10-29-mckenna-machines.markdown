@@ -10,7 +10,9 @@ permalink: mckenna-machines
 
 *Talk given by [Terence McKenna](https://en.wikipedia.org/wiki/Terence_McKenna) in Seattle on April 27, 1999.*
 
-Our discussion this evening is "Psychedelics in the Age of Intelligent Machines" or "Shamans Among the Machines". I wanted to talk about this simply because these are two of my great loves, so I assume -- being monogamous -- that they must be one love. So, how to build intellectual bridges between these two concerns which seem so different?
+Our discussion this evening is "Psychedelics in the Age of Intelligent Machines" or "Shamans Among the Machines". 
+
+I wanted to talk about this simply because these are two of my great loves, so I assume -- being monogamous -- that they must be one love. So, how to build intellectual bridges between these two concerns which seem so different?
 
 As far as people and machines are concerned, it was [Ludwig von Bertalanffy](https://en.wikipedia.org/wiki/Ludwig_von_Bertalanffy) who said in his book [General Systems Theory](https://en.wikipedia.org/wiki/Systems_theory#General_systems_research_and_systems_inquiry): "People are not machines, but in every opportunity where they are allowed to behave like machines, they will so behave." In other words, we tend to fall into the well of habit. Though the glory of our humanness is our spontaneous creativity, we too as creatures of physics and chemistry, of memory and hope, tend to fall into repetitious patterns. These repetitious patterns are the death of creativity. They diminish our humanness. They diminish our individuality, and make each of us somehow like cogs in some larger system.
 
