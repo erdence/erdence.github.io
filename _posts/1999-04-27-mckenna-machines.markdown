@@ -1,7 +1,7 @@
 ---
 published: true
 title: Terence McKenna - Shamans Among The Machines
-layout: post
+layout: page
 permalink: mckenna-machines
 ---
 
