@@ -5,7 +5,7 @@ layout: page
 permalink: mckenna-abyss
 ---
 
-My name is Terence McKenna and my training is basically in Shamanism and Botany and Ethnography. My interest is in hallucinogenic drugs, especially plant hallucinogens as they're used in a shamanic context. What impels me to speak to a room full of people like this is the belief that the major important point regarding hallucinogens has been largely overlooked, even though we're now 15 or 20 or 30 (depending on how you count it) years into the psychedelic age. 
+My name is Terence McKenna and my training is in Shamanism and Botany and Ethnography. My interest is in hallucinogenic drugs, especially plant hallucinogens as they're used in a shamanic context. What impels me to speak to a room full of people like this is the belief that the major important point regarding hallucinogens has been largely overlooked, even though we're now 15 or 20 or 30 (depending on how you count it) years into the psychedelic age. 
 
 The central point about the psychedelic experience is the content of the experience, and this has been occluded or obfuscated by the behavioral and statistical and scientific methods that have been brought to bear to study the hallucinogenic experience.
 
