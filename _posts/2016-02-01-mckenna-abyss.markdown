@@ -3,6 +3,7 @@ published: true
 title: Terence McKenna - Exploring The Abyss
 layout: page
 permalink: mckenna-abyss
+tags: mckenna
 ---
 
 My name is Terence McKenna. My training is in Shamanism, Botany and Ethnography, and my interest is in hallucinogenic drugs. More especially, the use of plant hallucinogens in a shamanic context. What impels me to speak to a room full of people like this is the belief that the major important point regarding hallucinogens has been largely overlooked, even though we're now 15 or 20 or 30 (depending on how you count it) years into the psychedelic age.

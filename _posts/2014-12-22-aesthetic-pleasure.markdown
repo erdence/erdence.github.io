@@ -2,6 +2,7 @@
 published: false
 title: Aesthetic pleasure
 layout: post
+tags: personal
 ---
 
 Beauty such as the architecture of cities or an arrangement of flowers is achieved by following certain unwritten general rules such as the color of roofs, the color of bricks, the general aspect of bridges, while allowing free expression within these constraints: shape, ridges, ornamentation. 

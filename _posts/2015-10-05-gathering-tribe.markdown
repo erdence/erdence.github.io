@@ -3,6 +3,7 @@ published: true
 title: A Gathering of the Tribe
 layout: post
 permalink: gathering-tribe
+tags: book
 ---
 
 _Excerpt from the book [The More Beautiful World Our Hearts Know Is Possible](http://amzn.com/B00CQZ5M5A) by [Charles Eisenstein](http://charleseisenstein.net)_
