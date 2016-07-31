@@ -6,7 +6,6 @@ permalink: mckenna-illusion
 tags: mckenna
 ---
 * [Video of the lecture](https://www.youtube.com/watch?v=_PuyoHH4c70#t=146s)
-* [Improve this page (requires a free GitHub account)](https://github.com/erdence/erdence.github.io/edit/master/_posts/2015-09-30-mckenna-illusion.markdown)
 
 What I wanted to talk about this evening is illusions. I called the lecture the Taxonomy of Illusion, because I think it's interesting to attempt to classify and relate the various kinds of illusions that stand between us and that presupposed naked, radiant truth -- *(As if on cue, [a larsen echo](https://youtu.be/_PuyoHH4c70?t=1m50s) surges through the speakers. All laugh.)* -- that has more or less driven the engines of Western philosophy since Plato.
 

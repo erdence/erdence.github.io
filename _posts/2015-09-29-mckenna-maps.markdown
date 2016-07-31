@@ -7,7 +7,6 @@ tags: mckenna
 ---
 
 * [Video of the lecture](https://www.youtube.com/watch?v=B_2f7aiPXsE)
-* [Improve this page (requires a free GitHub account)]()
 
 Well, it's a pleasure to see the tribe assembled. *(audience cheers)*
 
