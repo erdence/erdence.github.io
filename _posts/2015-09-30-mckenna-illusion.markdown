@@ -1,9 +1,8 @@
 ---
 published: true
-title: Terence McKenna - Taxonomy of Illusion
+title: Terence McKenna - Taxonomy of Illusion (rough draft)
 layout: page
 permalink: mckenna-illusion
-tags: mckenna
 ---
 * [Video of the lecture](https://www.youtube.com/watch?v=_PuyoHH4c70#t=146s)
 * [Improve this page (requires a free GitHub account)](https://github.com/erdence/erdence.github.io/edit/master/_posts/2015-09-30-mckenna-illusion.markdown)

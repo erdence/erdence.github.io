@@ -2,7 +2,6 @@
 published: false
 title: Discipline
 layout: post
-tags: personal
 ---
 
 Discipline does not require any greater willpower than you already have. 

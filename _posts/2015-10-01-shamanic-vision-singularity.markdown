@@ -3,7 +3,6 @@ published: true
 title: A shamanic vision of the singularity
 layout: post
 permalink: shamanic-singularity
-tags: personal
 ---
 
 Recent advances in AI have been chipping away at the exclusivity we claim on consciousness, and a stronger, stranger form of it is already on the horizon. Strong AI is defined as an intelligence that encompasses all aspects of human consciousness. 

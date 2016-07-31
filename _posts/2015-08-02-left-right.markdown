@@ -2,7 +2,6 @@
 published: false
 title: On Left and Right
 layout: post
-tags: personal
 ---
 
 You can't limit how low people can fall without also limiting how high they can rise. In social matters, there can be no safety net without a ceiling. 

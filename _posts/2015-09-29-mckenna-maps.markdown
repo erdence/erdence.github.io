@@ -3,7 +3,6 @@ published: true
 title: Terence McKenna - 1990 Maps Conference Address (draft)
 layout: page
 permalink: mckenna-maps
-tags: mckenna
 ---
 
 * [Video of the lecture](https://www.youtube.com/watch?v=B_2f7aiPXsE)
