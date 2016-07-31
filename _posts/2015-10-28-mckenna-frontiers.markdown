@@ -1,8 +1,9 @@
 ---
 published: true
-title: Terence McKenna - Cultural Frontiers in the Information Age
+title: Terence McKenna - Cultural Frontiers in the Information Age (rough draft)
 layout: page
 permalink: mckenna-frontiers
+tags: mckenna
 ---
 
 * [Video of the lecture](https://www.youtube.com/watch?v=9iPwVuCO2PM#t=5m40s)

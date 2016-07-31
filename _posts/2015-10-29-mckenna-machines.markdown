@@ -3,6 +3,7 @@ published: true
 title: Terence McKenna - Shamans Among The Machines
 layout: page
 permalink: mckenna-machines
+tags: mckenna
 ---
 
 * [Video of the lecture](https://www.youtube.com/watch?v=J5yOaTgWu6Y#t=3m13s)

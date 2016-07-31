@@ -2,6 +2,7 @@
 published: false
 title: A mighty train ride
 layout: post
+tags: personal
 ---
 
 And then, just then, I understood the Truth. What they were all on about. What they are all saying, without ever saying it. What they were showing through their actions and their creations. I understood who was actually in charge, here.
