@@ -1,7 +1,7 @@
 ---
 published: false
 title: A mighty train ride
-layout: post
+layout: page
 tags: personal
 ---
 

@@ -1,7 +1,7 @@
 ---
 published: true
 title: A Gathering of the Tribe
-layout: post
+layout: page
 permalink: gathering-tribe
 tags: story
 ---

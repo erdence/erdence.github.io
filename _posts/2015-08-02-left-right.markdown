@@ -1,7 +1,7 @@
 ---
 published: false
 title: On Left and Right
-layout: post
+layout: page
 tags: personal
 ---
 

@@ -1,7 +1,7 @@
 ---
 published: false
 title: Aesthetic pleasure
-layout: post
+layout: page
 tags: personal
 ---
 

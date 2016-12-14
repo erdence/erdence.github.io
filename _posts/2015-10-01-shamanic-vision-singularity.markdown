@@ -1,7 +1,7 @@
 ---
 published: true
 title: A shamanic vision of the singularity
-layout: post
+layout: page
 permalink: shamanic-singularity
 tags: personal
 ---

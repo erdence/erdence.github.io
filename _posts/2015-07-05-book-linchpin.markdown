@@ -1,7 +1,7 @@
 ---
 published: true
 title: Linchpin - Do You Need a Résumé? 
-layout: post
+layout: page
 tags: book
 ---
 

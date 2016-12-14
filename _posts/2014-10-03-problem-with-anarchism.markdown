@@ -1,7 +1,7 @@
 ---
 published: false
 title: The problem with anarchism
-layout: post
+layout: page
 tags: personal
 ---
 

@@ -1,7 +1,7 @@
 ---
 published: false
 title: Discipline
-layout: post
+layout: page
 tags: personal
 ---
 
