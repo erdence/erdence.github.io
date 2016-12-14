@@ -1,20 +1,18 @@
 ---
 published: true
-title: What is cognitive liberty and why should we care?
+title: What is cognitive liberty and why does it matter?
 layout: page
 permalink: cognitive-liberty
 tags: story
 ---
 
-_Transcript of the talk given by Wiliam Montgomery at Beyond Psychedelics 2016, Prague, Czech Republic._
+_Transcript of the talk given by William Montgomery at Beyond Psychedelics 2016, Prague, Czech Republic._
 
-I was telling a friend that I was coming here to present on the topic of cognitive liberty and he said ‘isn’t that just a pretentious way of saying freedom of thought’? it’s a good question.
+* [Video of the talk](https://slideslive.com/38898541/your-right-to-psychedelics-what-is-cognitive-liberty-and-why-does-it-matter)
 
-To answer that properly we need to first remind ourselves about the importance of freedom of thought. 
+I was telling a friend that I was coming here to present on the topic of cognitive liberty and he said ‘isn’t that just a pretentious way of saying freedom of thought’? it’s a good question. To answer that properly, we need to first remind ourselves about the importance of freedom of thought. 
 
-US Supreme court justice Benjamin Cardozo has rightly said of freedom of thought that it is 
-
-“the matrix, the indispensable condition, of nearly every other form of freedom.”
+US Supreme court justice Benjamin Cardozo has rightly said of freedom of thought that it is “the matrix, the indispensable condition, of nearly every other form of freedom.”
 
 Maybe it’s such a fundamental right that most of us rarely think about it or debate it … how could it even be possible that someone could stop me from having my thoughts? 
 
