@@ -6,11 +6,7 @@ permalink: cognitive-liberty
 tags: story
 ---
 
-**WHAT IS COGNITIVE LIBERTY AND WHY SHOULD WE CARE?**
-
-**by Wiliam Montgomery, Cognitive Freedom Alliance**
-
-_Transcript of the talk given at Beyond Psychedelics 2016, Prague, Czech Republic._
+_Transcript of the talk given by Wiliam Montgomery at Beyond Psychedelics 2016, Prague, Czech Republic._
 
 I was telling a friend that I was coming here to present on the topic of cognitive liberty and he said ‘isn’t that just a pretentious way of saying freedom of thought’? it’s a good question.
 
